@@ -8,7 +8,7 @@ Step: 1
 2. Type: "CMD" and hit "ENTER"
 3. Type: "ncpa.cpl"
 4. Type: "ipconfig /all"
-5. Lok to the physical address: "D0-50-99-2D-3E-EB"
+5. Look to the physical address: "D0-50-99-2D-3E-EB"
 6. Paste this "D0-50-99-2D-3E-EB" in notepad
 7. Replace "D0-50-99-2D-3E-EB" with "D0:50:99:2D:3E:EB" in notepad
 8. END
